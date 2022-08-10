@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Mouse+Memoirs&display=swap');
+*{
+    margin:0;
+    padding:0;
+}
+
+.encabezado { 
+    background-color: black;
+}
+
+nav ul li {
+    padding: 10px;
+    border-radius: 20px;
+    font-weight: bold;
+    background-color:azure;
+    width:10%;
+
+    
+}
+
+nav ul li a {
+    text-decoration: none;
+    font-size:1.2rem;
+    color:black;
+    font-family: 'Mouse Memoirs', sans-serif;
+}
+
+.titulo-principal {
+    font-family: 'Mouse Memoirs', sans-serif;
+    font-size: 3rem;
+    color:black;
+
+     }
+
+.menu-inicio {
+    font-family: 'Mouse Memoirs', sans-serif;
+    font-size: 1.2rem;
+
+}
+
+.pie-de-pagina {
+    background-color: black;
+    color: aliceblue;
+
+}
+
+.pie-de-pagina p {
+    font-size: 1.3rem;
+    font-weight: bolder;
+    text-align: center;
+
+}
