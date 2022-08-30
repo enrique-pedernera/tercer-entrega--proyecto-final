@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Mouse+Memoirs&display=swap');
+@import "./header";
+@import "./footer";
+*{
+    margin:0;
+    padding:0;
+}
+
+/* Estilos del main */
+.titulo-principal {
+    font-family: 'Mouse Memoirs', sans-serif;
+    font-size: 3rem;
+    color:black;
+
+     }
+
+.menu-inicio {
+    font-family: 'Mouse Memoirs', sans-serif;
+    font-size: 1.2rem;
+
+}
+
+.contact-datos {
+
+    width: 50%;
+    height: 50%;
+}
